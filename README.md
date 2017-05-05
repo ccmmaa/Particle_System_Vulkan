@@ -4,7 +4,7 @@ This project is two particles systems made using the API Vulkan
 
 My development environment was Windows 7 and I was using Visual Studio 2015.
 
-To run this program, you will need the correct drivers so that your graphics card will run with Vulkan, and the Vulkan SDK which can be downloaded from here: <https://vulkan.lunarg.com/sdk/home#windows>
+To run this program, you will need the correct drivers so that your graphics card will run with Vulkan, and the Vulkan SDK which can be downloaded from here: <https://vulkan.lunarg.com/sdk/home#windows>. Once you have this the program should run.
 
 If more help is needed please look at this webpage which describes setting up the environment: <https://vulkan-tutorial.com/Development_environment>
 
