@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\cristina\documents\visual studio 2015\projects\particle_system_2\particle_system_2\main.cpp(330): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\cristina\documents\visual studio 2015\projects\particle_system_2\particle_system_2\main.cpp(335): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+c:\users\cristina\documents\visual studio 2015\projects\particle_system_2\particle_system_2\main.cpp(375): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+c:\users\cristina\documents\visual studio 2015\projects\particle_system_2\particle_system_2\main.cpp(1446): warning C4838: conversion from 'const int' to 'uint32_t' requires a narrowing conversion
+  Particle_System_2.vcxproj -> C:\Users\Cristina\documents\visual studio 2015\Projects\Particle_System_2\Debug\Particle_System_2.exe
+  Particle_System_2.vcxproj -> C:\Users\Cristina\documents\visual studio 2015\Projects\Particle_System_2\Debug\Particle_System_2.pdb (Full PDB)
